@@ -5,3 +5,4 @@ myenv/
 venv/
 requirements.txt
 security.log
+.php
