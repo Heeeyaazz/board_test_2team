@@ -4,5 +4,5 @@ __pycache__/
 myenv/
 venv/
 requirements.txt
-security.log
-.php
+*.log
+*.php
